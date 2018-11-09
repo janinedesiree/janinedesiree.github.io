@@ -180,9 +180,9 @@ td p, td div{
 }
 
 /*VIDEO*/
-frame{
+iframe{
   width: 600px;
-  /*margin-left: 120px;*/
+  margin-left: 120px;
   float: left;
   display: inline;
 }
