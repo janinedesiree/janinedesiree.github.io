@@ -180,7 +180,7 @@ td p, td div{
 }
 
 /*VIDEO*/
-video{
+frame{
   width: 600px;
   margin-left: 120px;
   float: left;
