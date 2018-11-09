@@ -181,7 +181,8 @@ td p, td div{
 
 /*VIDEO*/
 iframe{
-  width: 600px;
+  width: 700px;
+
   margin-left: 120px;
   float: left;
   display: inline;
