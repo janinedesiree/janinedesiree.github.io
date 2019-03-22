@@ -146,6 +146,7 @@ td p, td div{
 }
 
 .blog-image a{
+  margin-left: 120px;
   display: inline;
   text-align: center;
 
@@ -161,7 +162,7 @@ td p, td div{
 }
 
 .blog-cell{
-    margin-left: 120px;
+
 
 }
 
@@ -169,6 +170,7 @@ td p, td div{
 
 .blog-desc{
 
+  margin-left: 120px;
 }
 
 .blog-image p, .blog-image h3, .blog-image h4{
@@ -218,3 +220,4 @@ summary {
   margin-top: 440px;
 
 }
+
