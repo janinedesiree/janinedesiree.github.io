@@ -163,7 +163,6 @@ td p, td div{
 
 .blog-cell{
 
-
 }
 
 
@@ -180,9 +179,8 @@ td p, td div{
 }
 
 /*VIDEO*/
-iframe{
-  width: 700px;
-
+video{
+  width: 600px;
   margin-left: 120px;
   float: left;
   display: inline;
@@ -220,4 +218,3 @@ summary {
   margin-top: 440px;
 
 }
-
