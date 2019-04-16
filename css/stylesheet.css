@@ -179,7 +179,7 @@ td p, td div{
 
 /*VIDEO*/
 iframe{
-  width: 600px;
+  width: 700px;
   margin-left: 120px;
   float: left;
   display: inline;
@@ -204,6 +204,11 @@ iframe{
   text-decoration: underline;
   background-color: grey;
   color: white;
+}
+
+.port-summary{
+
+  padding-top: 60px;
 }
 
 summary p {
